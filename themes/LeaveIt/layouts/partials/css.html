@@ -1,0 +1,5 @@
+  {{ $style := resources.Get "css/main.scss" | resources.ToCSS | resources.Minify}}
+  {{ $iconfont := resources.Get "font/iconfont.css" }}
+  <link rel="stylesheet" href="{{ $iconfont.RelPermalink }}">
+  <link rel="stylesheet" href="http://at.alicdn.com/t/font_2048431_n80qtofc5i8.css">
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">

@@ -1,0 +1,78 @@
+baseURL = "https://miss.now.sh/"
+languageCode = "en-us"
+title = "LeaveIt"
+theme = "LeaveIt"
+canonifyurls = true
+
+paginate = 5
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = ""
+
+preserveTaxonomyNames = true
+
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
+
+[Permalinks]
+ posts = "/:year/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
+#  [[menu.main]]
+#    name = "Tags"
+#    url = "/tags/"
+#    weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[params]
+    since = 2019
+    author = "Covey"                           # Author's name
+    avatar = "https://p.ananas.chaoxing.com/star3/origin/da7c9423cd822958dcf37e8aa0b446a2.jpg"           # Author's avatar
+    subtitle = "我会更好，因为我没有停止"         # Subtitle
+    cdn_url = ""           # Base CDN URL
+    home_mode = "" # post or other
+
+    google_verification = ""
+   
+    description = "" # site description
+    keywords = "" # site keywords
+
+    beian = ""
+    baiduAnalytics = ""
+
+    license= '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
+
+[params.social]
+#    GitHub = "xxoo"
+#    Twitter = "xxoo"
+#    Email   = "2458578637@qq.com"
+#    Instagram = "xxoo"
+#    Wechat = "https://p.ananas.chaoxing.com/star3/origin/ead0e737f7e9c052034a00287b0731ba.jpg"  # Wechat QRcode image
+#    Facebook = "xxoo"
+#    Telegram = "xxoo"
+#    Dribbble = "xxoo"
+#    Medium = "xxoo"
+     Qq = "https://p.ananas.chaoxing.com/star3/origin/b65a5286208e9b718aed5c6d8c211540.jpg"
+     Weixin = "https://p.ananas.chaoxing.com/star3/origin/f539bc9e0c174fd5847c6b1d70d7c94c.jpg"
+     Alipay = "https://p.ananas.chaoxing.com/star3/origin/efa968dd748005071d4bf4025b044d0f.jpg"
+     
