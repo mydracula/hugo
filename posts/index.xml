@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on LeaveIt</title>
+    <link>https://miss.now.sh/posts/</link>
+    <description>Recent content in Posts on LeaveIt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://miss.now.sh/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>美化接待组-其他</title>
+      <link>https://miss.now.sh/2020/5/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miss.now.sh/2020/5/</guid>
+      <description> 前言 美化板块求助帖多为主题/字体/图片/，只要求能够找图就可以
+不过会其他，当然任务可以更快或者可以领到更多奖励
+去水印 抖音去水印 有一些需要找抖音原图，只需要搜索底部作者提取无水印视频后截图
+要知道凡是图片就可以使用搜图神器，懂得灵活应用
+同样，找不到就推荐类似
+提取工具 
+图片去水印 工具内有教程，无非就是涂抹几下，就不赘述了
+水印工具 
+作图 一般都是简单抠图或者改图片尺寸之类
+作图工具 
+字体 提取码：3zqc
+  提取码：3zqc
+ 遇到找不到的字体，随便分享一个字体，但不要分享整个文件夹
+虽然数量不多，但也足够
+字体推荐 
+名片 Diy 遇到此类帖子可以略过，步骤麻烦且浪费时间
+后记  遇到问题可以问我 只做几天闹着玩的不要浪费你我的时间 考核期需要耐心认真的完成任务不要敷衍 考核通过后三分钟热度捣乱的封号拉黑 考核通过后超额奖励多多  </description>
+    </item>
+    
+    <item>
+      <title>美化接待组-提取主题</title>
+      <link>https://miss.now.sh/2020/4/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miss.now.sh/2020/4/</guid>
+      <description> 提取 vivo 两种方法可以提取vivo主题和字体
+抓包  首先必须要使用我提供的那个版本的i主题
+ 打开HttpCanary，点击左上角的三个杠→设置→目标应用→右上角的加号【找到i主题点击就可以添加到白名单，成功后返回软件主页面】→点击右下角的图标→【该安装的安装该输入密码的输入密码该确认的确认】
+ 打开i主题，找到自己喜欢的主题点进去→然后回到HttpCanary上点击右下角图标→【这时候状态栏会出现一个图标，软件也会显示抓包中。】→回到i主题点击免费试用,它不会下载因为被拦截了→回到HttpCanary关闭抓包找到并点有“302Found”的那栏，https://themes开头的结果都可以→最上面的链接就是主题下载地址
+   参考图片
+ 提取工具         推荐  以动态魔性小黄鸭为例
+ 安装小千vivo主题下载器→设置→跳转浏览器下载→输入主题名→搜索→查看所有结果
+ 点击你想找的结果→自动跳转到浏览器→复制下载地址链接
+   参考图片
+ 提取工具        提取 oppo  打开HttpCanary，点击左上角的三个杠→设置→目标应用→右上角的加号→找到主题商店点击就可以添加到白名单→成功后返回软件主页面
+ 打开主题商店，找到自己喜欢的主题点击试用→然后快速回到HttpCanary上点击右下角图标→【这时候状态栏会出现一个图标，软件也会显示抓包中。】→主题商店下载试用不用管他→回到HttpCanary找到并点有“206 Partial Content”的那栏，http://themes开头的结果→最上面的链接就是主题下载地址
+   参考图片
+ 提取工具          </description>
+    </item>
+    
+    <item>
+      <title>美化接待组-找情头</title>
+      <link>https://miss.now.sh/2020/3/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miss.now.sh/2020/3/</guid>
+      <description> 找情头 企鹅小程序搜索情头匹配
+要知道情头也是图片，某些情况可以使用搜图神器，懂得灵活应用
+同样，找不到就推荐类似
+ 参考图片
+     </description>
+    </item>
+    
+    <item>
+      <title>美化接待组-找原图</title>
+      <link>https://miss.now.sh/2020/2/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miss.now.sh/2020/2/</guid>
+      <description> 找原图 先安装搜图神器，优先使用百度识图或者谷歌识图(科学上网)
+只要是网图都应该能找到，如果找不到请尝试使用其他搜索引擎或者给楼主推荐类似
+ 参考图片
+ 搜图神器      </description>
+    </item>
+    
+    <item>
+      <title>美化接待组-考核任务</title>
+      <link>https://miss.now.sh/2020/1/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miss.now.sh/2020/1/</guid>
+      <description>考核内容  参考图片
+    考核期每天7回复，考核3天
+在手机美化板块，帖子按发布时间排列，寻找【美化求助】没有解决问题的新帖子最好是0条回复，然后帮助他们解决问题
+敷衍和三分钟热度的会被关小黑屋
+考核标准  一帖仅算一条回复，如果有多个求助，可以让给后面的接待 无论是求助主题/字体/图片/其他，回复内容最好为楼主所需要的东西。如果楼主没有说清楚或者没要求没限制，推荐一个类似资源。如果楼主有要求有限制，同样也是推荐一个类似资源，一定要尽力帮到 对于主题/字体/图片/其他这类问题，这里有各种教程，但是一定要会找图片 类似看我收藏第一或者看我帖子这种纯文字且字数很少的敷衍回复不作数，一般来说只算图片或者链接内容的回复，不过文字解答比较详细比较多的回复也可以算 刚开始上手找帖子和解决问题都比较难，希望要有耐心渡过考核期 等我想好了再说  遇到问题 问题一 ▾ 可不可以在自己帖子里，必须去解决他人的帖子吗
+▾ 是的，必须去别人的新帖解决问题
+问题二 ▾ 找不到帖子怎么办
+▾ 如果不是深更半夜那么是不可能没有新帖，建议多多刷新多多找
+问题三 ▾ 考核通过后会有什么奖励吗
+▾ 有的，上称号1周后凭系统消息称号截图去奖励帖领取50葫芦
+问题四 ▾ 任务做完了，需要截图吗
+▾ 如果你担心我数错，你可以给我截图检查
+问题五 ▾ 可不可以在自己帖子里，必须去解决他人的帖子吗
+▾ 是的，必须去别人的新帖解决问题</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://miss.now.sh/2014/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miss.now.sh/2014/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://miss.now.sh/2014/goisforlovers/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miss.now.sh/2014/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://miss.now.sh/2014/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miss.now.sh/2014/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://miss.now.sh/2014/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miss.now.sh/2014/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+  </channel>
+</rss>
