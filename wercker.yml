@@ -11,5 +11,6 @@ deploy:
     - install-packages:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
-        token: $GIT_TOKEN
+        domain: https://mydracula.github.io/hugo/
+        token: 0fb3cb173185d22f98430e738dea50a43a137cc9
         basedir: public
