@@ -2,12 +2,7 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "0.15"
-deploy:
-  steps:
-    - install-packages:
-        packages: git ssh-client
-    - leipert/git-push:
-         gh_oauth: $GH_TOKEN
-         gh_pages: true
-         basedir: public
+        version: "0.74.3"
+        theme: LeaveIt
+        config: config.toml
+        flags: --disableKinds=["sitemap"]
